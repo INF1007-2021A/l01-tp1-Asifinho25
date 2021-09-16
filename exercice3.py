@@ -4,6 +4,8 @@ def decomposer(secondes):
     # TODO: Assigner à la variable "annees" le nombre d'années
     annees = secondes//(3600*24*365)
     secondes = secondes%(3600*24*365)
+    #change qq chpsse
+   
 
     # TODO: Assigner à la variable "semaines" le nombre de semaines restantes
     semaines = secondes//(3600*24*7)
